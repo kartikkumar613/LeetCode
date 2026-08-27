@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumar613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kartikkumar613/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kartikkumar613/LeetCode/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kartikkumar613/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -71,5 +73,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kartikkumar613/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

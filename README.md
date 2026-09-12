@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumar613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikkumar613/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kartikkumar613/LeetCode/tree/master/0217-contains-duplicate) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikkumar613/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartikkumar613/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikkumar613/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikkumar613/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikkumar613/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikkumar613/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikkumar613/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikkumar613/LeetCode/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartikkumar613/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikkumar613/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikkumar613/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikkumar613/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->

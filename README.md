@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikkumar613/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kartikkumar613/LeetCode/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartikkumar613/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kartikkumar613/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kartikkumar613/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kartikkumar613/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/kartikkumar613/LeetCode/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartikkumar613/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |

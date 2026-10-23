@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kartikkumar613/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kartikkumar613/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/kartikkumar613/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumar613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartikkumar613/LeetCode/tree/master/0078-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikkumar613/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kartikkumar613/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/kartikkumar613/LeetCode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |

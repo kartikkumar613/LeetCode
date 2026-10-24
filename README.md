@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikkumar613/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kartikkumar613/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikkumar613/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kartikkumar613/LeetCode/tree/master/0125-valid-palindrome) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kartikkumar613/LeetCode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartikkumar613/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kartikkumar613/LeetCode/tree/master/0046-permutations) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartikkumar613/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikkumar613/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikkumar613/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |

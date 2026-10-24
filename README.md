@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kartikkumar613/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kartikkumar613/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikkumar613/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kartikkumar613/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kartikkumar613/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bit Manipulation
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikkumar613/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartikkumar613/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |

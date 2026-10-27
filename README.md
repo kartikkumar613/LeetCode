@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kartikkumar613/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikkumar613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kartikkumar613/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kartikkumar613/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikkumar613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartikkumar613/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
@@ -328,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikkumar613/LeetCode/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

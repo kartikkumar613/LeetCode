@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kartikkumar613/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kartikkumar613/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kartikkumar613/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kartikkumar613/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartikkumar613/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kartikkumar613/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kartikkumar613/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikkumar613/LeetCode/tree/master/0217-contains-duplicate) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kartikkumar613/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kartikkumar613/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikkumar613/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kartikkumar613/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kartikkumar613/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikkumar613/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kartikkumar613/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

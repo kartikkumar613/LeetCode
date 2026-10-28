@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikkumar613/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/kartikkumar613/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartikkumar613/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -372,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kartikkumar613/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

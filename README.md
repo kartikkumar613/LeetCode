@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikkumar613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0661-image-smoother](https://github.com/kartikkumar613/LeetCode/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/kartikkumar613/LeetCode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/kartikkumar613/LeetCode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikkumar613/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0661-image-smoother](https://github.com/kartikkumar613/LeetCode/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/kartikkumar613/LeetCode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/kartikkumar613/LeetCode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kartikkumar613/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

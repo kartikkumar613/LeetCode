@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kartikkumar613/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kartikkumar613/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kartikkumar613/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kartikkumar613/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/kartikkumar613/LeetCode/tree/master/0290-word-pattern) |
 | [0541-reverse-string-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumar613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/kartikkumar613/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kartikkumar613/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikkumar613/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kartikkumar613/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kartikkumar613/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartikkumar613/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/kartikkumar613/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |

@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kartikkumar613/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kartikkumar613/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/kartikkumar613/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kartikkumar613/LeetCode/tree/master/0075-sort-colors) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kartikkumar613/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/kartikkumar613/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kartikkumar613/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartikkumar613/LeetCode/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kartikkumar613/LeetCode/tree/master/0155-min-stack) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kartikkumar613/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

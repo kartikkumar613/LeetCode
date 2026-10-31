@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kartikkumar613/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kartikkumar613/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/kartikkumar613/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kartikkumar613/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartikkumar613/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartikkumar613/LeetCode/tree/master/0079-word-search) |

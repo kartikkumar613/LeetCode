@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/kartikkumar613/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/kartikkumar613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kartikkumar613/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kartikkumar613/LeetCode/tree/master/0078-subsets) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikkumar613/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikkumar613/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/kartikkumar613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kartikkumar613/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kartikkumar613/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/kartikkumar613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartikkumar613/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |

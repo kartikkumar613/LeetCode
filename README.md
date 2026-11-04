@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikkumar613/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/kartikkumar613/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikkumar613/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kartikkumar613/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikkumar613/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kartikkumar613/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikkumar613/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kartikkumar613/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikkumar613/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |

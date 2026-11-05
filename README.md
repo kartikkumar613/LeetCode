@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kartikkumar613/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/kartikkumar613/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartikkumar613/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kartikkumar613/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/kartikkumar613/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/kartikkumar613/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kartikkumar613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kartikkumar613/LeetCode/tree/master/0075-sort-colors) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/kartikkumar613/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kartikkumar613/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartikkumar613/LeetCode/tree/master/0079-word-search) |

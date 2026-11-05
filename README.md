@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikkumar613/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/kartikkumar613/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kartikkumar613/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/kartikkumar613/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/kartikkumar613/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartikkumar613/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kartikkumar613/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kartikkumar613/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/kartikkumar613/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kartikkumar613/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikkumar613/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kartikkumar613/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/kartikkumar613/LeetCode/tree/master/0078-subsets) |
 | [0832-flipping-an-image](https://github.com/kartikkumar613/LeetCode/tree/master/0832-flipping-an-image) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikkumar613/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/kartikkumar613/LeetCode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/kartikkumar613/LeetCode/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
 |  |

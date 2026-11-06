@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartikkumar613/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikkumar613/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kartikkumar613/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2747-count-zero-request-servers](https://github.com/kartikkumar613/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartikkumar613/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikkumar613/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikkumar613/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikkumar613/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartikkumar613/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartikkumar613/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/kartikkumar613/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikkumar613/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kartikkumar613/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikkumar613/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikkumar613/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2747-count-zero-request-servers](https://github.com/kartikkumar613/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartikkumar613/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikkumar613/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikkumar613/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikkumar613/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartikkumar613/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/kartikkumar613/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikkumar613/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kartikkumar613/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration

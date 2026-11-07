@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikkumar613/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kartikkumar613/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartikkumar613/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikkumar613/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kartikkumar613/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartikkumar613/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kartikkumar613/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/kartikkumar613/LeetCode/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikkumar613/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/kartikkumar613/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikkumar613/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikkumar613/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -563,4 +566,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kartikkumar613/LeetCode/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

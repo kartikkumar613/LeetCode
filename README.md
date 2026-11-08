@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikkumar613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/kartikkumar613/LeetCode/tree/master/0661-image-smoother) |
+| [0739-daily-temperatures](https://github.com/kartikkumar613/LeetCode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/kartikkumar613/LeetCode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/kartikkumar613/LeetCode/tree/master/0835-image-overlap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/kartikkumar613/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/kartikkumar613/LeetCode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartikkumar613/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikkumar613/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/kartikkumar613/LeetCode/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |

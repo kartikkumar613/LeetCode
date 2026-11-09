@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikkumar613/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kartikkumar613/LeetCode/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/kartikkumar613/LeetCode/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/kartikkumar613/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikkumar613/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/kartikkumar613/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kartikkumar613/LeetCode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikkumar613/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/kartikkumar613/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kartikkumar613/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kartikkumar613/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/kartikkumar613/LeetCode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |

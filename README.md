@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kartikkumar613/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikkumar613/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/kartikkumar613/LeetCode/tree/master/0322-coin-change) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikkumar613/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kartikkumar613/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartikkumar613/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikkumar613/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/kartikkumar613/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikkumar613/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikkumar613/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartikkumar613/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kartikkumar613/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikkumar613/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/kartikkumar613/LeetCode/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/kartikkumar613/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikkumar613/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -610,10 +613,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/kartikkumar613/LeetCode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/kartikkumar613/LeetCode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/kartikkumar613/LeetCode/tree/master/0322-coin-change) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

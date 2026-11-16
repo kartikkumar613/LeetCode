@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartikkumar613/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikkumar613/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartikkumar613/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kartikkumar613/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartikkumar613/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikkumar613/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kartikkumar613/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kartikkumar613/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kartikkumar613/LeetCode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/kartikkumar613/LeetCode/tree/master/0832-flipping-an-image) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kartikkumar613/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
